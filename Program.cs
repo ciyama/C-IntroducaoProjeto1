@@ -7,30 +7,24 @@ namespace Projeto1
     {
         static void Main(string[] args)
         {
-            string produto1 = "computador";
-            string produto2 = "Mesa de escritório";
+            
+            int a = 10;
+            Console.WriteLine(a);
 
-            byte idade = 30;
-            int codigo = 5290;
-            char genero = 'M';
+            a += 2;
+            System.Console.WriteLine(a);
 
-            double preco1 = 2100.0;
-            double preco2 = 650.50;
-            double medida = 53.234567;
+            a *= 3;
+            System.Console.WriteLine(a);
 
-            Console.WriteLine("Produtos:");
-            Console.WriteLine($"{produto1}, cujo preço é R$ {preco1:F2}");
-            Console.WriteLine($"{produto2}, cujo preço é R$ {preco2:F2}");
-            System.Console.WriteLine("");
-            System.Console.WriteLine("");
+            a %= 5;
+            System.Console.WriteLine(a);
+            
+            string s = "ABC";
+            System.Console.WriteLine(s);
 
-            Console.WriteLine($"Registro: {idade} anos de idade, código {codigo} e gênero: {genero}");
-            System.Console.WriteLine("");
-            System.Console.WriteLine("");
-
-            Console.WriteLine("Medida com oito casas decimais: {0:F8}", medida);
-            Console.WriteLine($"Arredondado (três casas decimais): {medida:F3}");
-            Console.WriteLine("Separador decimal invariant culture: " + (medida.ToString("F3", CultureInfo.InvariantCulture)));
+            s+="DEF";
+            System.Console.WriteLine(s);
             
             
         }
