@@ -1,0 +1,16 @@
+/home/celio/Documents/Udemy/NelioAlves/C#/Projeto1/bin/Debug/net5.0/Projeto1
+/home/celio/Documents/Udemy/NelioAlves/C#/Projeto1/bin/Debug/net5.0/Projeto1.deps.json
+/home/celio/Documents/Udemy/NelioAlves/C#/Projeto1/bin/Debug/net5.0/Projeto1.runtimeconfig.json
+/home/celio/Documents/Udemy/NelioAlves/C#/Projeto1/bin/Debug/net5.0/Projeto1.runtimeconfig.dev.json
+/home/celio/Documents/Udemy/NelioAlves/C#/Projeto1/bin/Debug/net5.0/Projeto1.dll
+/home/celio/Documents/Udemy/NelioAlves/C#/Projeto1/bin/Debug/net5.0/ref/Projeto1.dll
+/home/celio/Documents/Udemy/NelioAlves/C#/Projeto1/bin/Debug/net5.0/Projeto1.pdb
+/home/celio/Documents/Udemy/NelioAlves/C#/Projeto1/obj/Debug/net5.0/Projeto1.csproj.AssemblyReference.cache
+/home/celio/Documents/Udemy/NelioAlves/C#/Projeto1/obj/Debug/net5.0/Projeto1.GeneratedMSBuildEditorConfig.editorconfig
+/home/celio/Documents/Udemy/NelioAlves/C#/Projeto1/obj/Debug/net5.0/Projeto1.AssemblyInfoInputs.cache
+/home/celio/Documents/Udemy/NelioAlves/C#/Projeto1/obj/Debug/net5.0/Projeto1.AssemblyInfo.cs
+/home/celio/Documents/Udemy/NelioAlves/C#/Projeto1/obj/Debug/net5.0/Projeto1.csproj.CoreCompileInputs.cache
+/home/celio/Documents/Udemy/NelioAlves/C#/Projeto1/obj/Debug/net5.0/Projeto1.dll
+/home/celio/Documents/Udemy/NelioAlves/C#/Projeto1/obj/Debug/net5.0/ref/Projeto1.dll
+/home/celio/Documents/Udemy/NelioAlves/C#/Projeto1/obj/Debug/net5.0/Projeto1.pdb
+/home/celio/Documents/Udemy/NelioAlves/C#/Projeto1/obj/Debug/net5.0/Projeto1.genruntimeconfig.cache
