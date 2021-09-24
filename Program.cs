@@ -9,23 +9,24 @@ namespace Projeto1
         {
             
             int a = 10;
-            Console.WriteLine(a);
-
-            a += 2;
+            a++;
             System.Console.WriteLine(a);
 
-            a *= 3;
-            System.Console.WriteLine(a);
+            int b = 10;
+            int c = b++;
+            System.Console.WriteLine(b);
+            System.Console.WriteLine(c);
 
-            a %= 5;
-            System.Console.WriteLine(a);
-            
-            string s = "ABC";
-            System.Console.WriteLine(s);
+            int d = 10;
+            int e = ++d;
+            System.Console.WriteLine(d);
+            System.Console.WriteLine(e);
 
-            s+="DEF";
-            System.Console.WriteLine(s);
-            
+
+
+
+
+
             
         }
     }
